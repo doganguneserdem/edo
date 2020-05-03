@@ -1,2 +1,2 @@
 # Erdem
-i am a student
+I am a student
